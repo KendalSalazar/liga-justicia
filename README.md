@@ -10,3 +10,4 @@ Pueden hacer lo que quieran...
 Esto fue añadido mediante GitHub
 
 ### Readme actualizado desde remotooooo
+Esto esta hecho desde remoto para causar conflictos
