@@ -9,4 +9,4 @@ Pueden hacer lo que quieran...
 ### Actualizado desde GitHub
 Esto fue añadido mediante GitHub
 
-### Cambios en local
+### Readme actualizado desde remoto
