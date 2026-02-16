@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Esto fue añadido mediante GitHub
+
+### Readme actualizado desde remoto
